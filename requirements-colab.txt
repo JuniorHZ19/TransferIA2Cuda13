@@ -1,0 +1,5 @@
+numpy>=1.23,<2.0
+opencv-python>=4.8
+pillow>=9.0
+insightface>=0.7.3
+onnxruntime-gpu>=1.27.0
